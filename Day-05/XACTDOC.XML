@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GENERIC_ROUGHDRAFT xmlns="http://xactware.com/generic_roughdraft.xsd" majorVersion="28" minorVersion="300" transactionId="06B9T4K" claimNumber="2051476">
+    <Property>
+        <Address>
+            <Street>123 Main St</Street>
+            <City>Springfield</City>
+            <State>IL</State>
+            <ZipCode>62701</ZipCode>
+        </Address>
+        <Owner>
+            <Name>John Doe</Name>
+            <Phone>555-1234</Phone>
+        </Owner>
+    </Property>
+    <DamageDetails>
+        <DamageType>Roof</DamageType>
+        <Description>Wind damage to shingles</Description>
+        <EstimatedCost>1500.00</EstimatedCost>
+    </DamageDetails>
+</GENERIC_ROUGHDRAFT>
